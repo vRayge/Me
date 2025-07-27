@@ -1,2 +1,3 @@
-# Me
-Media Censored In Your Favour
+# dotfiles on the go 
+
+# Contains dotfiles for:
